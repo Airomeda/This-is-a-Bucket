@@ -121,6 +121,7 @@
         <defaultProjectile>Ai_Proj_Buckonator</defaultProjectile>
         <warmupTime>1.4</warmupTime>
         <range>14</range>
+        <minRange>4</minRange>
         <forcedMissRadius>1.4</forcedMissRadius>
         <noiseRadius>7</noiseRadius>
         <ticksBetweenBurstShots>50</ticksBetweenBurstShots>
