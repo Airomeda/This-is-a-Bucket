@@ -6,7 +6,9 @@
   <author>Airotsu</author>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
+  <modIconPath IgnoreIfNoMatchingField="True">UI/TIABLogo</modIconPath>
   <packageId>Airo.ThisIsABucket</packageId>
   <modDependencies>
     <li>
@@ -21,6 +23,7 @@
     <li>Ludeon.RimWorld.Royalty</li>
     <li>Ludeon.RimWorld.Ideology</li>
     <li>Ludeon.RimWorld.Biotech</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
 </ModMetaData>
