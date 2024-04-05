@@ -6,4 +6,10 @@
     <li IfModActive="CETeam.CombatExtended">Mods/1.4/CE</li>
     <li IfModActive="CETeam.CombatExtended_copy">Mods/1.4/CE</li>
   </v1.4>
+  <v1.5>
+    <li>1.5</li>
+    <li>Common</li>
+    <!-- <li IfModActive="CETeam.CombatExtended">Mods/1.5/CE</li> -->
+    <!-- <li IfModActive="CETeam.CombatExtended_copy">Mods/1.5/CE</li> -->
+  </v1.5>
 </loadFolders>
